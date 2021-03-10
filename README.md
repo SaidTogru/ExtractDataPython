@@ -1,5 +1,5 @@
 # All news summarized around the world
-Python project that extracts the top 3 news stories from the biggest news providers (Google News, New York Times, Al Jazeera, BBC, Twitter) and summarizes and links them in a Word document on any language within 5 seconds.
+Python project that extracts automated the top 3 news stories from the biggest news providers (Google News, New York Times, Al Jazeera, BBC, Twitter) and summarizes and links them in a Word document on any language within 5 seconds.
 
 # Setup
 Install Python and an IDE, open the project and enter a number as parameter in the main method below
