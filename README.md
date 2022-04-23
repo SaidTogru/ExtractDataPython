@@ -1,8 +1,8 @@
 # All news summarized around the world
-Python project that extracts automated the top 3 news stories from the biggest news providers (Google News, New York Times, Al Jazeera, BBC, Twitter) and summarizes and links them in a Word document on any language within seconds.
+Python project using Selenium Selenium that quickly and easily performs the extraction of news data from different channels, summarizes the respective data and visualizes it in a document.
 
 # Setup
-Install Python and an IDE, open the project and enter a number as parameter in the main method below
+Install Python, open the project and enter a number as parameter in the main method below
 
     #0: GERMAN
     #1: CHINESE
@@ -23,10 +23,4 @@ The result is saved in the same folder as the Pythonfile as News.docx
 # Result so far
 ![AllLang](https://user-images.githubusercontent.com/65668541/110280091-85d72680-7fda-11eb-9b90-e7b6343afc28.png)
 
-# TO DO
 
-- UI based
-- Downloadable or website
-- ALL languages
-- More reference to social networks like Reddit
-- Connected to a server that updates at times
